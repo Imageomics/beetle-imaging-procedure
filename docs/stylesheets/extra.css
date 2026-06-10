@@ -1,0 +1,26 @@
+/* Imageomics Colors, can be changed */
+
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #5D8095;
+    --md-primary-bg-color: #ffffff;
+    --md-accent-fg-color: #9BCB5E;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #5B7E90;
+    --md-accent-fg-color: #9BCB5E;
+}
+
+/*
+Make logo larger
+*/
+ .md-header__button.md-logo {
+  margin: 0;
+  padding: 1;
+}
+
+/* logo isn't square: it's wider than it is tall */
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 2.4rem;
+  width: 2.8rem;
+}
