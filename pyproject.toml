@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "beetle-imaging-procedure"
+version = "0.1.0"
+description = "Standard Operating Procedure (SOP) for Imaging Pinned Ground Beetles at the NEON Biorepository."
+readme = "README.md"
+requires-python = ">=3.12"
+license = {file = "LICENSE"}
+keywords = [
+    "imageomics",
+    "beetles",
+    "SOP",
+    "specimen-imaging",
+    "NEON",
+]
+dependencies = [
+    "zensical",
+]
+
+[project.urls]
+Documentation = "https://github.com/Imageomics/beetle-imaging-procedure"
+Issues = "https://github.com/Imageomics/beetle-imaging-procedure/issues"
+Source = "https://github.com/Imageomics/beetle-imaging-procedure"
+
+[tool.hatch.build.targets.wheel]
+packages = ["docs"]
