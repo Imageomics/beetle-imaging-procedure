@@ -1,6 +1,6 @@
 # Setup
 
-TODO: Add short description and alt-text for ref photos.
+This page covers everything needed to prepare the imaging station before photographing pinned ground beetles: cleaning and arranging equipment, configuring diffuse lighting, tethering the camera to Lightroom for direct capture to the workstation, and dialing in manual camera settings (aperture, ISO, and shutter speed) for sharp, well-exposed tray images.
 
 ## Setup Preparation
 
@@ -16,11 +16,11 @@ TODO: Add short description and alt-text for ref photos.
 - Link the Camera to Lightroom with tethering:
     - File/Teathering/Start Teathering   
 - Ensure that destination is `“`C:\Users\biorepository\Desktop\Beetle Tray Pics\BTray\ABTrays`:
-![Ref photo](assets/reference-photos/TetherFile.png)
+![Screen shot of the UI of Lightroom where you assign the destinstion for the session to output images](assets/reference-photos/TetherFile.png)
 - A control bar will open on the screen:
-![ref photo](assets/reference-photos/LiveViewControl.png) 
+![Screen shot of the UI of Lightroom control bar](assets/reference-photos/LiveViewControl.png) 
 Open Live view to look at the camera view on the computer screen:
-![ref photo](assets/reference-photos/LiveView.png)
+![Screen shot of the UI of Lightroom used to activate live room](assets/reference-photos/LiveView.png)
 
 ## Camera Settings
 
@@ -30,7 +30,7 @@ Open Live view to look at the camera view on the computer screen:
 ![photo of the side of a SLR camera lens with a slider switch set so the line aligns with the line under the word 'FOCUS'](assets/reference-photos/LensFocus.jpg){ loading="lazy", width="75%" }
 - Ensure the camera is set to manual focus.
 - Adjust camera aperature settings from live view:
-![ref photo](assets/reference-photos/LiveViewControl.png)  
+![Screen shot of the UI of Lightroom used to activate live room](assets/reference-photos/LiveViewControl.png)  
     - Use aperture settings that maximize depth of field (f/8-f/11) (Different for [small beetles](imaging-protocol/small-beetle-protocol.md)).
     - Use ISO settings that minimize noise (ISO 100-400) (recommendation, see what works for your setup).
     - Shutter Speeds for this camera generally work around 100-200, but it will depend on the species and ambient lighting.
