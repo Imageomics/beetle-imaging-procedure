@@ -47,5 +47,5 @@ How captured images and metadata are stored with redundant backup (local, Google
     ![ref photo...resolution setting with 300 filled in the box, followed by pixels per inch as the unit of measure](../assets/reference-photos/300ppi.png)
     - Don’t modify the names  
     - Export in the folder: `C:\\Users\\biorepository\\Desktop\\Beetle Tray Pics\\BTray\\ABTrays\\ABTrays-NEONBiorepository\\PNGs`
-    ![ref photo.. Screen shot of the bottom of the lightroom exort UI showing how files should be entered](../assets/reference-photos/ExportSettings.png)  
+    ![ref photo: Screen shot of the bottom of the lightroom export UI showing how files should be entered](../assets/reference-photos/ExportSettings.png)  
 - Once the export is done, select all PNGs and upload them to the Google Drive in the folder `/Images/PNG/`
