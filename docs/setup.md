@@ -29,7 +29,7 @@ Open Live view to look at the camera view on the computer screen:
 - Ensure that the lens is set to focus:
 ![photo of the side of a SLR camera lens with a slider switch set so the line aligns with the line under the word 'FOCUS'](assets/reference-photos/LensFocus.jpg){ loading="lazy", width="75%" }
 - Ensure the camera is set to manual focus.
-- Adjust camera aperature settings from live view:
+- Adjust camera aperture settings from live view:
 ![Screen shot of the UI of Lightroom used to activate live room](assets/reference-photos/LiveViewControl.png)  
     - Use aperture settings that maximize depth of field (f/8-f/11) (Different for [small beetles](imaging-protocol/small-beetle-protocol.md)).
     - Use ISO settings that minimize noise (ISO 100-400) (recommendation, see what works for your setup).
