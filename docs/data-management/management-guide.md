@@ -41,7 +41,7 @@ How captured images and metadata are stored with redundant backup (local, Google
     ![ref photo Screen shot of the bottom of the lightroom UI with the button to toggle to grid vieiw highlighted by a box and arrow](../assets/reference-photos/GridView.png) 
     and use ++shift++ `+ click` to select all images of interest  
 - Right-click on selected images and select “Export”:
-![ref photo Screen shot of the lightroom UI with the right click activated and showing the nested selection pathway to get ot export](../assets/reference-photos/Export.png)  
+![ref photo: Screen shot of the lightroom UI with the right click activated and showing the nested selection pathway to get to export](../assets/reference-photos/Export.png)  
 - Export as `PNG` (This export takes a while).
     - Ensure that the PPI is assigned to 300:
     ![ref photo...resolution setting with 300 filled in the box, followed by pixels per inch as the unit of measure](../assets/reference-photos/300ppi.png)
