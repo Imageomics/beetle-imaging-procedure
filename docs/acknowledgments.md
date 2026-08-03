@@ -6,4 +6,6 @@ S. Record and A. East were additionally supported by the US National Science Fou
 
 The Ohio Supercomputer Center was used for data storage. Ohio Supercomputer Center. 1987. Ohio Supercomputer Center. Columbus OH: Ohio Supercomputer Center. <https://ror.org/01apna436>.
 
+We thank Hojun Song, Principal Investigator of the NEON Biorepository and Director of the ASU Biocollections, Isa Betancourt, Kelsey Yule, Chandra Earl, and all of the NEON Biorepository staff and collection managers for their stewardship of the collection on which this work depends, and for hosting us throughout this imaging effort. We are aslo grateful to the NEON field staff and parataxonomists who collect, sort, and pin specimens, and to the expert taxonomists who provide identifications. We also thank the NEON site hosts whose stewardship enables continental-scale sampling, Laura Nagel for overseeing NEON's ground beetle field protocols, and Paula Mabee and Kate Thibault for their input, support, and institutional leadership.
+
 Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or US Department of Agriculture. 
