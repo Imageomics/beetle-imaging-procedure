@@ -14,7 +14,7 @@ This page covers everything needed to prepare the imaging station before photogr
 - Turn on the Camera.
 - Open Lightroom on the desktop.
 - Link the Camera to Lightroom with tethering:
-    - File/Teathering/Start Teathering   
+    - `File > Tethering > Start Tethering`
 - Ensure that destination is `“`C:\Users\biorepository\Desktop\Beetle Tray Pics\BTray\ABTrays`:
 ![Screen shot of the UI of Lightroom where you assign the destination for the session to output images](assets/reference-photos/TetherFile.png)
 - A control bar will open on the screen:
