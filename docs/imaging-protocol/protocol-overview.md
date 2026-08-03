@@ -19,7 +19,7 @@ The standard, default workflow: one unit tray photographed per image. Use this f
 
 ## C Tray
 
-Smaller C trays photographed two at a time in a single image to save time, each with its own header label. Both trays must hold similarly-sized species so all specimens stay within one focal plane. Because two trays share an image, metadata uses a dedicated C Tray template with paired Tray1_/Tray2_ columns. (Note the page's own caution that two-tray images can create more downstream work than they save, we now recomend using the A or B tray protocals here too)
+Smaller C trays photographed two at a time in a single image to save time, each with its own header label. Both trays must hold similarly-sized species so all specimens stay within one focal plane. Because two trays share an image, metadata uses a dedicated C Tray template with paired Tray1_/Tray2_ columns. (Note the page's own caution that two-tray images can create more downstream work than they save; we now recommend using the A or B tray protocols here too.)
 
 ## Small Beetle Protocol
 
