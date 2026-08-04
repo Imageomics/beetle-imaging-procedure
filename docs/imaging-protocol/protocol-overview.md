@@ -12,7 +12,6 @@ This page introduces the imaging protocol and the general specimen-arrangement p
 
 ![Circle around a dark diagonal line written on the upper right corner of a unit tray label, with pinned beetle specimens arranged in rows in a lab tray on a workbench; the line doesn't cover any printed text.](../assets/reference-photos/Mark.jpg){ loading=lazy }
 
-## Describe different senarios and link to the pages
 ## A or B Tray
 
 The standard, default workflow: one unit tray photographed per image. Use this for directly-pinned specimens large enough to image at normal magnification. Each image captures a single tray with its own header label, and metadata is recorded one row per image in the standard BeetleMetadata sheet.
