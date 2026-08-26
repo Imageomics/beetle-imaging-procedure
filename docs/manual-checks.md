@@ -1,6 +1,6 @@
 # Data Linkage Checks
 
-TODO: Add short description.
+This page covers the manual, human-in-the-loop step that resolves linkage discrepancies the automated processing pipeline can't settle on its own. When the redundant Individual ID queries return a specimen count that doesn't match the recorded number of beetles for a tray, that tray is flagged and routed to a reviewer, who physically compares the specimens against the CSV to reconcile the mismatch. It documents the two main cases—too many linked individuals (`QueryOver`) and too few (`QueryUnder`)—plus how to handle a miscounted tray, ensuring every imaged specimen is correctly connected to its database record before the data is finalized. The processing code that generates these flagged `QueryOver` and `QueryUnder` files is available in the [`Imageomics/CarabidImaging`](https://github.com/Imageomics/CarabidImaging) repository.
 
 ## Purpose and Scope
 

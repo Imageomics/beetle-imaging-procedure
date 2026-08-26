@@ -1,6 +1,6 @@
 # Data Management
 
-TODO: Short intro description and alt-text for ref photos.
+How captured images and metadata are stored with redundant backup (local, Google Drive, OSC) and exported from Lightroom as raw files and 300 PPI PNGs for downstream processing.
 
 ## File Storage and Redundant Backup
 
@@ -38,14 +38,14 @@ TODO: Short intro description and alt-text for ref photos.
 - Select all of the Raw photos (`.CR3` files) and copy them to the Google Drive in the folder `/Images/Raw/`.
 - In Lightroom, select all photos from the date of imaging   
     - Click the grid view (looks like a grid of boxes at the bottom left of the interface):
-    ![ref photo](../assets/reference-photos/GridView.png) 
+    ![ref photo: Screen shot of the bottom of the lightroom UI with the button to toggle to grid view highlighted by a box and arrow](../assets/reference-photos/GridView.png) 
     and use ++shift++ `+ click` to select all images of interest  
 - Right-click on selected images and select “Export”:
-![ref photo](../assets/reference-photos/Export.png)  
+![ref photo: Screen shot of the lightroom UI with the right click activated and showing the nested selection pathway to get to export](../assets/reference-photos/Export.png)  
 - Export as `PNG` (This export takes a while).
     - Ensure that the PPI is assigned to 300:
     ![ref photo...resolution setting with 300 filled in the box, followed by pixels per inch as the unit of measure](../assets/reference-photos/300ppi.png)
     - Don’t modify the names  
     - Export in the folder: `C:\\Users\\biorepository\\Desktop\\Beetle Tray Pics\\BTray\\ABTrays\\ABTrays-NEONBiorepository\\PNGs`
-    ![ref photo](../assets/reference-photos/ExportSettings.png)  
+    ![ref photo: Screen shot of the bottom of the lightroom export UI showing how files should be entered](../assets/reference-photos/ExportSettings.png)  
 - Once the export is done, select all PNGs and upload them to the Google Drive in the folder `/Images/PNG/`

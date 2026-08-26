@@ -1,6 +1,6 @@
 # Small Beetle Protocol
 
-For beetles mounted on points that require higher magnification: TODO: Add example images.
+For beetles mounted on points that require higher magnification:
 
 | EXAMPLE IMAGE: this photo cannot be used due to the limited number of pixels that each beetle occupies, and confusion about appendages of the beetle vs background words on the labels.  ![A tray of very small beetles on points, beetles appear blurry and indistinct due to their small size relative to the large tray](../assets/reference-photos/TooSmall.jpg) |
 | :---- |
