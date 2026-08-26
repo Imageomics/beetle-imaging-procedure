@@ -1,7 +1,5 @@
 # A or B Tray
 
-TODO: Add description and alt-text for image capture ref photo. Should some of this move to the overview page?
-
 ## Required Elements in Each Image
 
 - Header tray configuration, use C Tray for easy pinning and orginization
