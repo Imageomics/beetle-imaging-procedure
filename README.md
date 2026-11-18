@@ -1,4 +1,4 @@
-# Beetle Imaging Procedure
+# Beetle Imaging Procedure [![DOI](https://zenodo.org/badge/1257367283.svg)](https://doi.org/10.5281/zenodo.24351854)
 
 This repository hosts a Markdown-based [Zensical](https://zensical.org/about/) site with the Standard Operating Procedure (SOP) for Imaging Pinned Ground Beetles at the NEON Biorepository.
 
