@@ -1,0 +1,45 @@
+{
+    "creators": [
+      {
+          "name": "East, Alyson",
+          "orcid": "0000-0003-1143-1255",
+          "affiliation": "University of Maine"
+      },
+      {
+          "name": "Campolongo, Elizabeth G.",
+          "orcid": "0000-0003-0846-2413",
+          "affiliation": "The Ohio State University"
+      }
+    ],
+    "description": "Standard Operating Procedure (SOP) for Imaging Pinned Ground Beetles at the NEON Biorepository. </p>\n<p>Website: <a href=\"https://imageomics.github.io/beetle-imaging-procedure/\">imageomics.github.io/beetle-imaging-procedure</a></p>",
+    "notes": "<p>If you use this SOP, please cite the paper:</p>\n<p>&nbsp;</p>\n<p><code>@misc{East_Rayeed_Campolongo_Cain_Earl_Belitz_Betancourt_Sokol_Cotton_Dominguez_2026,</code><br><code>&nbsp; title = From collection trays to AI-ready data: An operational framework for automated batch entomological specimen processing},&nbsp;</code><br><code>&nbsp; author = {East, Alyson and Rayeed, S M and Campolongo, Elizabeth and Cain, Nathan and Earl, Chandra and Belitz, Michael and Betancourt, Isabelle and Sokol, Eric and Cotton, Leah and Dominguez, Jacqueline},</code><br><code>&nbsp; year = {2026},</code><br><code>&nbsp; journal={ARPHA Preprints},</code><br><code>&nbsp; doi={10.3897/arphapreprints.e213643},&nbsp;</code><br><code>}</code></p>",
+    "keywords": [
+      "imageomics",
+      "specimen digitization",
+      "natural history collections",
+      "Carabidae",
+      "computer vision",
+      "metadata validation",
+      "NEON",
+      "batch imaging",
+      "pinned specimens",
+      "standard operating procedure",
+      "SOP"
+    ],
+    "title": "Beetle Imaging Procedure",
+    "version": "1.0.0",
+    "license": "MIT",
+    "publication_date": "2026-08-26",
+    "grants": [
+        {
+            "id": "021nxhr62::2118240"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.3897/arphapreprints.e213643",
+            "relation": "isDescribedBy",
+            "resource_type": "publication-article"
+        }
+    ]
+}

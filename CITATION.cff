@@ -1,0 +1,82 @@
+abstract: "Standard Operating Procedure (SOP) for Imaging Pinned Ground Beetles at the NEON Biorepository."
+authors:
+- family-names: "East"
+  given-names: "Alyson"
+  orcid: "https://orcid.org/0000-0003-1143-1255"
+- family-names: "Campolongo"
+  given-names: "Elizabeth G."
+  orcid: "https://orcid.org/0000-0003-0846-2413"
+cff-version: 1.2.0
+date-released: "2026-08-26"
+identifiers:
+  - description: "The GitHub release URL of tag v1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/beetle-imaging-procedure/releases/tag/v1.0.0"
+  - description: "The GitHub URL of the commit tagged with v1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/beetle-imaging-procedure/tree/<commit-hash>" # Update on release
+keywords:
+  - imageomics
+  - specimen digitization
+  - natural history collections
+  - Carabidae
+  - computer vision
+  - metadata validation
+  - NEON
+  - batch imaging
+  - pinned specimens
+  - standard operating procedure
+  - SOP
+license: MIT
+message: "If you find this software helpful in your research, please cite both the software and our paper."
+repository-code: "https://github.com/imageomics/beetle-imaging-procedure"
+title: "Beetle Imaging Procedure"
+version: 1.0.0
+#doi: <version-agnostic DOI from Zenodo>
+type: software
+# Only include the following if you want to present the paper citation instead of code on sidebar,
+# Better to include paper citation in README
+preferred-citation:
+  type: article
+  authors:
+    - family-names: East
+      given-names: Alyson East
+    - family-names: Rayeed
+      given-names: "S M"
+    - family-names: Campolongo
+      given-names: "Elizabeth G."
+    - family-names: Cain
+      given-names: Nathan
+    - family-names: Earl
+      given-names: Chandra
+    - family-names: Belitz
+      given-names: Michael
+    - family-names: Betancourt
+      given-names: Isabelle
+    - family-names: Sokol
+      given-names: "Eric R"
+    - family-names: Cotton
+      given-names: Leah
+    - family-names: Dominguez
+      given-names: Jacqueline
+    - family-names: Hays
+      given-names: Brennan
+    - family-names: Liu
+      given-names: Fangxun
+    - family-names: Stevens
+      given-names: Samuel
+    - family-names: Stewart
+      given-names: Charles
+    - family-names: Berger-Wolf
+      given-names: Tanya
+    - family-names: Chao
+      given-names: Wei-Lun
+    - family-names: Lapp
+      given-names: Hilmar
+    - family-names: Record
+      given-names: Sydne
+  journal: "ARPHA Preprints"
+  pages: e213643
+  title: "From collection trays to AI-ready data: An operational framework for automated batch entomological specimen processing"
+  year: 2026
+  doi: 10.3897/arphapreprints.e213643
