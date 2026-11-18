@@ -14,7 +14,7 @@ identifiers:
     value: "https://github.com/Imageomics/beetle-imaging-procedure/releases/tag/v1.0.0"
   - description: "The GitHub URL of the commit tagged with v1.0.0."
     type: url
-    value: "https://github.com/Imageomics/beetle-imaging-procedure/tree/<commit-hash>" # Update on release
+    value: "https://github.com/Imageomics/beetle-imaging-procedure/tree/de517f242dac5f526fd2ecc4c13be3de511f2119" # Update on release
 keywords:
   - imageomics
   - specimen digitization
@@ -32,7 +32,7 @@ message: "If you find this software helpful in your research, please cite both t
 repository-code: "https://github.com/imageomics/beetle-imaging-procedure"
 title: "Beetle Imaging Procedure"
 version: 1.0.0
-#doi: <version-agnostic DOI from Zenodo>
+doi: 10.5281/zenodo.24351854
 type: software
 # Only include the following if you want to present the paper citation instead of code on sidebar,
 # Better to include paper citation in README
